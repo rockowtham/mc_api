@@ -1,0 +1,5 @@
+Django==1.11
+mongoengine==0.9.0
+pymongo==2.7.1
+pytz==2018.3
+six==1.10.0
